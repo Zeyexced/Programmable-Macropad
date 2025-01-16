@@ -1,4 +1,8 @@
 # Programmable-Macropad
+
+https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe
+
+
 AFTER INSTALLING ARDUINO IDE
 
 SEE THE IMAGES FOR REFERENCES OF WHAT MACROS YOU WANT TO USE

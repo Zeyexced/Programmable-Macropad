@@ -1,6 +1,6 @@
 # Programmable-Macropad
 
-https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe
+go to https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.4_Windows_64bit.exe
 
 
 AFTER INSTALLING ARDUINO IDE
